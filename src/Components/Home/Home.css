@@ -1,0 +1,17 @@
+.home-img{
+    background-image: url(../../Photo/home-backgraound-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top:-20px;
+}
+.home-img h1{
+    color: wheat;
+    text-align:center;
+    font-size : 40px;
+    line-height: 300px;
+    
+}
+.home-bg-color{
+    background-color: lightgray;
+}

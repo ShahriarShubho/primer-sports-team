@@ -1,0 +1,13 @@
+.team-style img{
+    width: 250px;
+    margin-bottom: 15px;
+}
+.team-style{
+    font-size: 18px;
+    text-align: center;
+    margin: 35px;
+    padding: 15px;
+    background-color:mediumaquamarine;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(88, 82, 82);
+}
