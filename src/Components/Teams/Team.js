@@ -13,7 +13,7 @@ const Team = (props) => {
         history.push(`/team/${teamId}`)
     }
     return (
-        <div className="team-style col-sm-6 col-md-3">
+        <div className="team-style col-md-5 col-lg-3 col-sm-11">
             <img src={strTeamBadge} alt=""/>
             <h3>{strTeam}</h3>
             <p>Country : {strCountry}</p>
