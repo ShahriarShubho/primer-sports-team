@@ -1,11 +1,24 @@
-Project Name: Primer Sports Team.
+## Wekcome the repository <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-In this project I use : 
-1. react and react -router
-2. In this project I add Header and footer.
-3. React bootstrap also plain bootstrap
-4. I also use font-awesome for icons.
-5. I try to use custom css for better look.
-6. This project is responsive in mobile, Tab and desktop version. 
- 
-Here the live site : https://6048f1245d45440a4768976c--ecstatic-jepsen-9860eb.netlify.app/
+
+:mailbox: Let know the project!
+
+# Premier Sports Team
+
+This is sports team website. In this website, A user get some information of a team.
+- First user see the home page.
+- In home page there are some Team in premier leauge 
+- User can explore a team and see the details information of a team.
+- User can Show dynamic banner, description of explorar team.
+- User can connect with team offial facebook, Twitter and Youtube.
+
+ ## Frond-end Technology: 
+- HTML5
+- CSS3
+- Bootstrap
+- React J
+- React Router
+- React Bootstrap
+- Font Awesome
+
+You can visit the live site: [Premier Sports Team](https://premier-sports-team.netlify.app/)
