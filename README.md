@@ -12,13 +12,7 @@ This is sports team website. In this website, A user get some information of a t
 - User can Show dynamic banner, description of explorar team.
 - User can connect with team offial facebook, Twitter and Youtube.
 
- ## Frond-end Technology: 
-- HTML5
-- CSS3
-- Bootstrap
-- React J
-- React Router
-- React Bootstrap
-- Font Awesome
+ ## Technology: 
+HTML5, CSS3, Bootstrap, React Js, React Router, React Bootstrap, Font Awesome
 
 You can visit the live site: [Premier Sports Team](https://premier-sports-team.netlify.app/)
